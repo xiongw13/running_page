@@ -2,8 +2,7 @@ module.exports = {
   pathPrefix: `/`, // Change to `/running_page` when running on github pages
   siteMetadata: {
     title: 'Running page',
-    siteUrl: 'https://yihong.run',
-    description: 'Personal site and blog',
+    siteUrl: 'https://xiongw13.github.io',
   },
   plugins: [
     'gatsby-transformer-json',
